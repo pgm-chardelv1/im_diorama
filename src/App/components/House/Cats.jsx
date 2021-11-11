@@ -9,7 +9,7 @@ const Cat = () => {
     const { nodes } = useGLTF(catGlb, true);
     const [matcap] = useMatcapTexture(MatCap.id.BLACK, MatCap.size.XS);
     const [toggle, setToggle] = useState(true);
-    const scale = toggle ? .1 : 0.01;
+    const scale = toggle ? .01 : 0.1;
 
     return (
         <group>

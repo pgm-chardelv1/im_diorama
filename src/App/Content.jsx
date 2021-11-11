@@ -9,10 +9,8 @@ import { useControls } from 'leva';
 /**
  * Import local components
  */
-import House from './components/House';
 import Cat from './components/House/Cats';
-import HouseMatcapTexture from './components/House/MatcapTexture';
-import HousePhysicalMaterial from './components/House/PhysicalMaterial';
+import Bat from './components/House/Bats';
 
 // Lighting
 import Lighting from './components/Lighting';
@@ -24,9 +22,6 @@ import LightingThreePointGui from './components/Lighting/ThreePointGui';
 
 const components = [
     'House',
-    'HouseMatcapTexture',
-    'HousePhysicalMaterial',
-    'Cat'
 ];
 
 const lightings = ['None', 'Default', 'Studio', 'ThreePoint'];
@@ -57,7 +52,7 @@ const Content = () => {
         useComponent: {
             label: 'Component',
             options: components,
-            value: 'HouseMatcapTexture',
+            value: 'House',
         },
         useLighting: {
             label: 'Lighting',
@@ -95,10 +90,7 @@ const Content = () => {
             )}
 
             <Suspense fallback={null}>
-                {showComponent('House') && <House><Cat/></House>}
-                {showComponent('HouseMatcapTexture') && <HouseMatcapTexture><Cat /></HouseMatcapTexture>}
-                {showComponent('HousePhysicalMaterial') && <HousePhysicalMaterial> <Cat/></HousePhysicalMaterial>}
-                {showComponent('Cat') && <Cat/>}
+                {showComponent('House') && <><Cat /><Bat /></>}
             </Suspense>
         </>
     )
