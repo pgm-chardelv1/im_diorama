@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,iBAGE,YAAa,CACb,WACF,CAEA,KACE,+BAAiC,CACjC,QACF","file":"main.c2d5d41e.chunk.css","sourcesContent":["html, \nbody,\ncanvas {\n  height: 100vh;\n  width: 100vw;\n}\n\nbody {\n  background-color: rgba(0,0,0,0.5);\n  margin: 0;\n}"]}

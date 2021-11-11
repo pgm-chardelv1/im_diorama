@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/im_diorama/static/css/main.1964b560.chunk.css",
-    "main.js": "/im_diorama/static/js/main.035a844a.chunk.js",
-    "main.js.map": "/im_diorama/static/js/main.035a844a.chunk.js.map",
-    "runtime-main.js": "/im_diorama/static/js/runtime-main.3db018fa.js",
-    "runtime-main.js.map": "/im_diorama/static/js/runtime-main.3db018fa.js.map",
-    "static/js/2.c1aa0460.chunk.js": "/im_diorama/static/js/2.c1aa0460.chunk.js",
-    "static/js/2.c1aa0460.chunk.js.map": "/im_diorama/static/js/2.c1aa0460.chunk.js.map",
-    "static/js/3.bbb9d28d.chunk.js": "/im_diorama/static/js/3.bbb9d28d.chunk.js",
-    "static/js/3.bbb9d28d.chunk.js.map": "/im_diorama/static/js/3.bbb9d28d.chunk.js.map",
+    "main.css": "/im_diorama/static/css/main.c2d5d41e.chunk.css",
+    "main.js": "/im_diorama/static/js/main.86e4c0bd.chunk.js",
+    "main.js.map": "/im_diorama/static/js/main.86e4c0bd.chunk.js.map",
+    "runtime-main.js": "/im_diorama/static/js/runtime-main.5298aece.js",
+    "runtime-main.js.map": "/im_diorama/static/js/runtime-main.5298aece.js.map",
+    "static/js/2.af2cbc61.chunk.js": "/im_diorama/static/js/2.af2cbc61.chunk.js",
+    "static/js/2.af2cbc61.chunk.js.map": "/im_diorama/static/js/2.af2cbc61.chunk.js.map",
+    "static/js/3.23d64cd7.chunk.js": "/im_diorama/static/js/3.23d64cd7.chunk.js",
+    "static/js/3.23d64cd7.chunk.js.map": "/im_diorama/static/js/3.23d64cd7.chunk.js.map",
     "index.html": "/im_diorama/index.html",
-    "static/css/main.1964b560.chunk.css.map": "/im_diorama/static/css/main.1964b560.chunk.css.map",
-    "static/js/2.c1aa0460.chunk.js.LICENSE.txt": "/im_diorama/static/js/2.c1aa0460.chunk.js.LICENSE.txt",
-    "static/media/house.72c4a793.glb": "/im_diorama/static/media/house.72c4a793.glb"
+    "static/css/main.c2d5d41e.chunk.css.map": "/im_diorama/static/css/main.c2d5d41e.chunk.css.map",
+    "static/js/2.af2cbc61.chunk.js.LICENSE.txt": "/im_diorama/static/js/2.af2cbc61.chunk.js.LICENSE.txt",
+    "static/media/house.b9cadbfe.glb": "/im_diorama/static/media/house.b9cadbfe.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.3db018fa.js",
-    "static/js/2.c1aa0460.chunk.js",
-    "static/css/main.1964b560.chunk.css",
-    "static/js/main.035a844a.chunk.js"
+    "static/js/runtime-main.5298aece.js",
+    "static/js/2.af2cbc61.chunk.js",
+    "static/css/main.c2d5d41e.chunk.css",
+    "static/js/main.86e4c0bd.chunk.js"
   ]
 }
