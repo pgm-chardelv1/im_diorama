@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/im_diorama/static/css/main.c2d5d41e.chunk.css",
-    "main.js": "/im_diorama/static/js/main.86e4c0bd.chunk.js",
-    "main.js.map": "/im_diorama/static/js/main.86e4c0bd.chunk.js.map",
+    "main.js": "/im_diorama/static/js/main.342f82c9.chunk.js",
+    "main.js.map": "/im_diorama/static/js/main.342f82c9.chunk.js.map",
     "runtime-main.js": "/im_diorama/static/js/runtime-main.5298aece.js",
     "runtime-main.js.map": "/im_diorama/static/js/runtime-main.5298aece.js.map",
-    "static/js/2.af2cbc61.chunk.js": "/im_diorama/static/js/2.af2cbc61.chunk.js",
-    "static/js/2.af2cbc61.chunk.js.map": "/im_diorama/static/js/2.af2cbc61.chunk.js.map",
+    "static/js/2.e6bbd429.chunk.js": "/im_diorama/static/js/2.e6bbd429.chunk.js",
+    "static/js/2.e6bbd429.chunk.js.map": "/im_diorama/static/js/2.e6bbd429.chunk.js.map",
     "static/js/3.23d64cd7.chunk.js": "/im_diorama/static/js/3.23d64cd7.chunk.js",
     "static/js/3.23d64cd7.chunk.js.map": "/im_diorama/static/js/3.23d64cd7.chunk.js.map",
     "index.html": "/im_diorama/index.html",
     "static/css/main.c2d5d41e.chunk.css.map": "/im_diorama/static/css/main.c2d5d41e.chunk.css.map",
-    "static/js/2.af2cbc61.chunk.js.LICENSE.txt": "/im_diorama/static/js/2.af2cbc61.chunk.js.LICENSE.txt",
+    "static/js/2.e6bbd429.chunk.js.LICENSE.txt": "/im_diorama/static/js/2.e6bbd429.chunk.js.LICENSE.txt",
     "static/media/house.b9cadbfe.glb": "/im_diorama/static/media/house.b9cadbfe.glb"
   },
   "entrypoints": [
     "static/js/runtime-main.5298aece.js",
-    "static/js/2.af2cbc61.chunk.js",
+    "static/js/2.e6bbd429.chunk.js",
     "static/css/main.c2d5d41e.chunk.css",
-    "static/js/main.86e4c0bd.chunk.js"
+    "static/js/main.342f82c9.chunk.js"
   ]
 }

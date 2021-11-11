@@ -57,7 +57,7 @@ const Content = () => {
         useLighting: {
             label: 'Lighting',
             options: lightings,
-            value: 'Studio',
+            value: 'ThreePoint',
         },
         useLightingGui: {
             label: 'Lighting GUI',
