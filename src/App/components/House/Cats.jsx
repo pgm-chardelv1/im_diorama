@@ -1,9 +1,14 @@
 import { useState } from 'react';
 import { useGLTF, useMatcapTexture } from "@react-three/drei";
-import { DoubleSide, MathUtils } from "three";
+import { DoubleSide } from "three";
 
 import MatCap from "../../lib/MatCap";
 import catGlb from './assets/house.glb';
+/**
+ * Cat V1 3D Model source: https://free3d.com/3d-model/cat-v1--326682.html
+ * Created by printable_models: https://free3d.com/user/printable_models
+ * LICENSE: Personal Use License
+ */
 
 const Cat = () => {
     const { nodes } = useGLTF(catGlb, true);

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/im_diorama/static/css/main.c2d5d41e.chunk.css",
-    "main.js": "/im_diorama/static/js/main.808d5d93.chunk.js",
-    "main.js.map": "/im_diorama/static/js/main.808d5d93.chunk.js.map",
+    "main.js": "/im_diorama/static/js/main.20cb02b6.chunk.js",
+    "main.js.map": "/im_diorama/static/js/main.20cb02b6.chunk.js.map",
     "runtime-main.js": "/im_diorama/static/js/runtime-main.5298aece.js",
     "runtime-main.js.map": "/im_diorama/static/js/runtime-main.5298aece.js.map",
     "static/js/2.e6bbd429.chunk.js": "/im_diorama/static/js/2.e6bbd429.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5298aece.js",
     "static/js/2.e6bbd429.chunk.js",
     "static/css/main.c2d5d41e.chunk.css",
-    "static/js/main.808d5d93.chunk.js"
+    "static/js/main.20cb02b6.chunk.js"
   ]
 }
