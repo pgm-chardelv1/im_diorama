@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/im_diorama/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/im_diorama/static/js/main.318e93ae.chunk.js",
-    "main.js.map": "/im_diorama/static/js/main.318e93ae.chunk.js.map",
-    "runtime-main.js": "/im_diorama/static/js/runtime-main.62e35030.js",
-    "runtime-main.js.map": "/im_diorama/static/js/runtime-main.62e35030.js.map",
-    "static/js/2.8baccc26.chunk.js": "/im_diorama/static/js/2.8baccc26.chunk.js",
-    "static/js/2.8baccc26.chunk.js.map": "/im_diorama/static/js/2.8baccc26.chunk.js.map",
-    "static/js/3.d692a50e.chunk.js": "/im_diorama/static/js/3.d692a50e.chunk.js",
-    "static/js/3.d692a50e.chunk.js.map": "/im_diorama/static/js/3.d692a50e.chunk.js.map",
+    "main.css": "/im_diorama/static/css/main.1964b560.chunk.css",
+    "main.js": "/im_diorama/static/js/main.035a844a.chunk.js",
+    "main.js.map": "/im_diorama/static/js/main.035a844a.chunk.js.map",
+    "runtime-main.js": "/im_diorama/static/js/runtime-main.3db018fa.js",
+    "runtime-main.js.map": "/im_diorama/static/js/runtime-main.3db018fa.js.map",
+    "static/js/2.c1aa0460.chunk.js": "/im_diorama/static/js/2.c1aa0460.chunk.js",
+    "static/js/2.c1aa0460.chunk.js.map": "/im_diorama/static/js/2.c1aa0460.chunk.js.map",
+    "static/js/3.bbb9d28d.chunk.js": "/im_diorama/static/js/3.bbb9d28d.chunk.js",
+    "static/js/3.bbb9d28d.chunk.js.map": "/im_diorama/static/js/3.bbb9d28d.chunk.js.map",
     "index.html": "/im_diorama/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/im_diorama/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.8baccc26.chunk.js.LICENSE.txt": "/im_diorama/static/js/2.8baccc26.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/im_diorama/static/media/logo.6ce24c58.svg"
+    "static/css/main.1964b560.chunk.css.map": "/im_diorama/static/css/main.1964b560.chunk.css.map",
+    "static/js/2.c1aa0460.chunk.js.LICENSE.txt": "/im_diorama/static/js/2.c1aa0460.chunk.js.LICENSE.txt",
+    "static/media/house.72c4a793.glb": "/im_diorama/static/media/house.72c4a793.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.62e35030.js",
-    "static/js/2.8baccc26.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.318e93ae.chunk.js"
+    "static/js/runtime-main.3db018fa.js",
+    "static/js/2.c1aa0460.chunk.js",
+    "static/css/main.1964b560.chunk.css",
+    "static/js/main.035a844a.chunk.js"
   ]
 }
